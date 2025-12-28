@@ -1,7 +1,6 @@
-<h1 align="left">Nievanik Thapa Shrestha</h1>
+<h1 align="left">🙏 Namaste Sansar</h1>
 
 ###
-
 <p align="left">I'm a Computer Science undergraduate with a strong interest in web development and software engineering.</p>
 
 ###
@@ -13,8 +12,9 @@
 </a>
 </div>
 
-###
+<br>
 
+<h2 align="left"> 💻 Tech Stack:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
